@@ -1,4 +1,4 @@
-let num = 10;
+let num = 11;
 
 if(num % 2 === 0){
     console.log("number is even");
@@ -12,7 +12,7 @@ else{
 
 let res
 
-res = num % 2 === 0 ? "Even" : "Odd"
+res = num % 2 === 0 ? "Number is Even" : "Number is Odd"
 
 console.log(res);
 
